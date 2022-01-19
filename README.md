@@ -1,5 +1,6 @@
 
-### :computer: MC Messaging Outbound
+### :cloud: Marketing Cloud
+### :computer: Team: MC Messaging Outbound - [Confluence](https://confluence.internal.salesforce.com/display/MC/Messaging+Outbound)
 
 ___
 ### sfdc-mc-mj/monolith
