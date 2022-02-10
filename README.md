@@ -1,5 +1,5 @@
 
-### :cloud: Marketing Cloud
+### :cloud: SF Marketing Cloud
 ### :computer: Team: MC Messaging Outbound - [Confluence](https://confluence.internal.salesforce.com/display/MC/Messaging+Outbound)
 
 ___
